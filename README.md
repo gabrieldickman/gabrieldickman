@@ -14,6 +14,12 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 
 <br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
+
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldickman&count_private=true&show_icons=true&theme=dark)
 
@@ -41,8 +47,3 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 </div>
 
 <br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
-<br>
-
