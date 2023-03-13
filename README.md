@@ -16,6 +16,7 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 <br>
 <br>
 
+<a href="https://app.daily.dev/gra_biels"><img src="https://api.daily.dev/devcards/6af6e72188e749d8b3e26a33dab62b09.png?r=rkb" width="400" alt="Gabriel Dickman's Dev Card"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
 
 <br>
