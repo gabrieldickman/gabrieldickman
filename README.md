@@ -1,4 +1,4 @@
-# console.log('Hello World!')
+# console.log('Olá, bem vindo(a)!')
 
 Meu nome é Gabriel Dickman e sou estudante de programação tendo como foco e objetivo Desenvolvimento Web e Mobile.
 <br>
