@@ -14,7 +14,6 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 
 <br>
-<br>
 
 <a href="https://app.daily.dev/gra_biels"><img src="https://api.daily.dev/devcards/6af6e72188e749d8b3e26a33dab62b09.png?r=eq7" width="400" alt="Gabriel Dickman's Dev Card"/></a>
 
