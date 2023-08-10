@@ -82,11 +82,3 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 
 <br>
 <br>
-
-<br>
-<br>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldickman)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-<br>
