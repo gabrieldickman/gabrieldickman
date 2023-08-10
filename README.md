@@ -79,7 +79,7 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)]
 
 <br>
 <br>
@@ -87,7 +87,7 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 <br>
 <br>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldickman)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldickman)]
 
 <br>
 <br>
