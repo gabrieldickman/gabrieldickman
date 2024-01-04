@@ -14,11 +14,11 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 
 <br>
+<br>
 
 <a href="https://app.daily.dev/gra_biels"><img src="https://api.daily.dev/devcards/6af6e72188e749d8b3e26a33dab62b09.png?r=eq7" width="400" alt="Gabriel Dickman's Dev Card"/></a>
 
-## Habilidades:
-
+<br>
 <br>
 
 <div>
@@ -31,6 +31,7 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguage
 <img alt="Logo React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+<br>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
