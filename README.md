@@ -1,11 +1,11 @@
 # console.log('Olá, bem vindo(a)!')
 
-Meu nome é Gabriel Dickman, tenho 22 anos e sou um desenvolvedor Front-End.
-Bacharel em Sistemas de Informação.
-Apaixonado por progamação e design de interfaces.
-Tenho buscado aperfoiçar e melhorar minhas habilidades trabalhando com projetos próprios.
-Sempre disposto a aprender e conhecer novas ferramentas.
-Meu objetivo é ser um dev Fullstack!
+Meu nome é Gabriel Dickman, tenho 22 anos e sou um desenvolvedor Front-End. <br>
+Bacharel em Sistemas de Informação. <br>
+Apaixonado por progamação e design de interfaces. <br>
+Tenho buscado aperfoiçar e melhorar minhas habilidades trabalhando com projetos próprios. <br>
+Sempre disposto a aprender e conhecer novas ferramentas. <br>
+Meu objetivo é ser um dev Fullstack! <br>
 <br>
 <br>
 
