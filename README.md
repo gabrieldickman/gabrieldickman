@@ -7,7 +7,6 @@ Tenho buscado aperfoiçar e melhorar minhas habilidades trabalhando com projetos
 Sempre disposto a aprender e conhecer novas ferramentas. <br>
 Meu objetivo é ser um dev Fullstack! <br>
 <br>
-<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-dickman-04b6a424b/)
