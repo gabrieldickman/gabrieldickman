@@ -1,11 +1,11 @@
 # console.log('Olá, bem vindo(a)!')
 
-Meu nome é Gabriel Dickman e sou estudante de programação tendo como foco e objetivo Desenvolvimento Web e Mobile.
-<br>
-
-Sou apaixonado por programação e tecnologia e pelas coisas que são possíveis realizar com elas.
-
-Tenho buscado aperfoiçar e melhorar minhas habilidades em determinadas linguagens com a ideia de não apenas saber, mas ser especialista nela, trabalhando com projetos próprios e pessoais.
+Meu nome é Gabriel Dickman, tenho 22 anos e sou um desenvolvedor Front-End.
+Bacharel em Sistemas de Informação.
+Apaixonado por progamação e design de interfaces.
+Tenho buscado aperfoiçar e melhorar minhas habilidades trabalhando com projetos próprios.
+Sempre disposto a aprender e conhecer novas ferramentas.
+Meu objetivo é ser um dev Fullstack!
 <br>
 <br>
 
