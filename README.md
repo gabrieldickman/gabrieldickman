@@ -23,6 +23,7 @@
 
 ![HTML5](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,figma,grafana,postgres,prisma,mysql)
 
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
 
