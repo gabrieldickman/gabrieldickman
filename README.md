@@ -20,9 +20,9 @@
 <br>
 
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>
 
-<>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
