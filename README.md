@@ -19,9 +19,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 <br>
 
-## Skills:
+## Tecnologias e Ferramentas:
 
-![HTML5](https://skillicons.dev/icons?i=js,html,css,wasm)
+![HTML5](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,figma,grafana,postgres,prisma,mysql)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
