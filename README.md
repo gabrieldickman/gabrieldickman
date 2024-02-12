@@ -1,6 +1,5 @@
 # console.log('Olá, bem vindo(a)!')
 
-<div>
   Meu nome é Gabriel Dickman, tenho 23 anos e sou um desenvolvedor Front-End. Sou apaixonado por tecnologia, progamação e design de interfaces.
   
   - Adotei JavaScript como minha linguagem foco. 
@@ -10,7 +9,6 @@
   - Apreço especial por ensinar pessoas. 
   
   Obtive minha experiência atual com projetos de estudos pessoais, da faculdade e projetos de amigos.
-</div>
 
 ## Contato:
 
