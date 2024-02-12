@@ -12,12 +12,16 @@
 
 <br>
 
-## CONTATO:
+## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-dickman-04b6a424b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 <br>
+
+## Skills:
+
+[![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge)]
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
