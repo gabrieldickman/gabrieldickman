@@ -2,11 +2,13 @@
 
 <div>
   Meu nome é Gabriel Dickman, tenho 23 anos e sou um desenvolvedor Front-End. Sou apaixonado por tecnologia, progamação e design de interfaces.<br>
-  - Adotei JavaScript como minha linguagem foco. <br>
-  - Bacharel em Sistemas de Informação. <br>
-  - Buscando sempre absorver o máximo de conhecimento possível.  <br>
-  - Sempre disposto a aprender e conhecer novas ferramentas. <br>
-  - Apreço especial por ensinar pessoas. <br>
+  
+  - Adotei JavaScript como minha linguagem foco. 
+  - Bacharel em Sistemas de Informação. 
+  - Buscando sempre absorver o máximo de conhecimento possível.  
+  - Sempre disposto a aprender e conhecer novas ferramentas. 
+  - Apreço especial por ensinar pessoas. 
+  
   Obtive minha experiência atual com projetos de estudos pessoais, da faculdade e projetos de amigos.
 </div>
 
