@@ -21,7 +21,7 @@
 
 ## Skills:
 
-![HTML5](https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267)
+![HTML5](https://skillicons.dev/icons?i=html)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
