@@ -12,8 +12,6 @@
   Obtive minha experiência atual com projetos de estudos pessoais, da faculdade e projetos de amigos.
 </div>
 
-<br>
-
 ## Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
