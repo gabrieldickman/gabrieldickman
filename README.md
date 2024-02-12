@@ -21,7 +21,7 @@
 
 ## Skills:
 
-[![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge)]
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-logo)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
