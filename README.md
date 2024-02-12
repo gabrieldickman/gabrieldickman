@@ -1,4 +1,4 @@
-# <center>console.log('Olá, bem vindo(a)!')</center>
+<center>console.log('Olá, bem vindo(a)!')</center>
 
 <div>
   Meu nome é Gabriel Dickman, tenho 23 anos e sou um desenvolvedor Front-End. Sou apaixonado por tecnologia, progamação e design de interfaces.<br>
