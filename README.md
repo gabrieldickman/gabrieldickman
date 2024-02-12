@@ -1,21 +1,16 @@
 # console.log('Olá, bem vindo(a)!')
 
-Meu nome é Gabriel Dickman, tenho 22 anos e sou um desenvolvedor Front-End. <br>
+Meu nome é Gabriel Dickman, tenho 23 anos e sou um desenvolvedor Front-End. <br>
 Bacharel em Sistemas de Informação. <br>
-Apaixonado por progamação e design de interfaces. <br>
-Tenho buscado aperfoiçar e melhorar minhas habilidades trabalhando com projetos próprios. <br>
+Apaixonado tecnologia, progamação e design de interfaces. <br>
+Buscando sempre absorver o máximo de conhecimento possível.  <br>
 Sempre disposto a aprender e conhecer novas ferramentas. <br>
-Meu objetivo é ser um dev Fullstack! <br>
+Apreço especial por ensinar pessoas. <br>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-dickman-04b6a424b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
-
-<br>
-<br>
-
-<a href="https://app.daily.dev/gra_biels"><img src="https://api.daily.dev/devcards/6af6e72188e749d8b3e26a33dab62b09.png?r=eq7" width="400" alt="Gabriel Dickman's Dev Card"/></a>
 
 <br>
 <br>
