@@ -14,7 +14,7 @@
 
 ## CONTATO:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-logo=linkedin&logoColor=white
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-dickman-04b6a424b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldickman33@gmail.com)
 <br>
