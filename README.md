@@ -21,7 +21,7 @@
 
 ## Skills:
 
-![HTML5]((https://skillicons.dev/icons?i=js,html,css,wasm))
+![HTML5](https://skillicons.dev/icons?i=js,html,css,wasm)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact)
