@@ -19,7 +19,7 @@
 
 ## Tecnologias e Ferramentas:
 
-![HTML5](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,figma,postgres,mysql,prisma)
+![HTML5](https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,express,bootstrap,figma,postgres,mysql,prisma,github)
 
 <br>
 
