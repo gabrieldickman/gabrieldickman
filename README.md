@@ -11,8 +11,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gabrieldickman&theme=algolia&row=1&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-  
   ### Contact:
   <a href="https://www.linkedin.com/in/gabrieldsilvam/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.instagram.com/devguide.io/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
@@ -40,7 +38,6 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
-</div>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrieldickman}/count.svg" /></p> 
