@@ -29,12 +29,12 @@ I enjoy turning ideas into scalable applications and I’m actively looking for 
 ### 📦 SCEO – Inventory Control System
 Complete inventory management system with authentication, product control, sales registration and automatic stock updates.  
 **Stack:** Next.js, TypeScript, Prisma, Neon, Tailwind, ShadCN, Clerk  
-🔗 Repository | 🔗 Demo
+🔗 ![Repository](https://github.com/gabrieldickman/sceo) | 🔗 ![Demo](https://sceo-pi.vercel.app/)
 
 ### ⚖️ JuriFácil
 Web system for managing legal cases and clients, focused on organization and usability.  
 **Stack:** Next.js, TypeScript, React Hook Form, Zod  
-🔗 Repository
+🔗 ![Repository](https://github.com/DevGuide-Systems/jurifacil)
 
 ---
 
