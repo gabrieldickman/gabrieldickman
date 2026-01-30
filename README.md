@@ -9,9 +9,8 @@
 👨‍💻 Front-end Developer focused on **React and Next.js**  
 🚀 Currently transitioning to **Full Stack Development**  
 🧠 Experience building **real-world systems**, personal projects and freelance solutions  
-📦 Main projects: **SCEO (Inventory Control System)** and **JuriFácil**
 
-I enjoy turning ideas into scalable applications and I’m actively looking for Junior Developer opportunities in Front-end or Full Stack roles.
+I enjoy turning ideas into scalable applications and I’m actively looking for **Junior Front-end or Full Stack Developer** opportunities.
 
 ---
 
@@ -22,20 +21,44 @@ I enjoy turning ideas into scalable applications and I’m actively looking for 
   ![Stats](https://github-states-generator.vercel.app/api?username=gabrieldickman&theme=dark&show_icons=true&show=reviews%2Cprs_merged)
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 📦 SCEO – Inventory Control System
 Complete inventory management system with authentication, product control, sales registration and automatic stock updates.  
-Designed to help small businesses manage inventory, sales and products in a simple and efficient way.
+Designed to help small businesses manage inventory, sales and products in a simple and efficient way.  
+
 **Stack:** Next.js, TypeScript, Prisma, Neon, Tailwind, ShadCN, Clerk  
 🔗 [Repository](https://github.com/gabrieldickman/sceo) | 🔗 [Demo](https://sceo-pi.vercel.app/)
 
+---
+
 ### ⚖️ JuriFácil
 Web system for managing legal cases and clients, focused on organization and usability.  
+
 **Stack:** Next.js, TypeScript, React Hook Form, Zod  
 🔗 [Repository](https://github.com/DevGuide-Systems/jurifacil)
+
+---
+
+### 💰 Finance AI
+Web system for **financial management**, allowing control of income, expenses, categories and balances in an organized way.  
+Includes interactive reports and charts to support financial decision-making.
+
+**Stack:** Next.js, TypeScript, Tailwind, ShadCN, Node.js, Prisma, PostgreSQL (Neon), Clerk  
+🔗 [Repository](https://github.com/gabrieldickman/finance-ai)
+
+---
+
+### 🕵️ Holmes
+System designed to **unify customer data queries across multiple databases**, reducing rework and service time.  
+Improved support efficiency by centralizing and validating real-time data.
+
+**Stack:** React, CSS Modules, Context API, Node.js, Express  
+🔗 [Repository - Front-End](https://github.com/gabrieldickman/holmes-frontend)
+🔗 [Repository - Back-End](https://github.com/gabrieldickman/holmes-backend)
 
 ---
 
