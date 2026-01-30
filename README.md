@@ -17,8 +17,11 @@ I enjoy turning ideas into scalable applications and I’m actively looking for 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-states-generator.vercel.app/api?username=gabrieldickman&theme=dark&show_icons=true&show=reviews%2Cprs_merged)
+<div align="center">
+  
+  ![Stats](https://github-states-generator.vercel.app/api?username=gabrieldickman&theme=dark&show_icons=true&show=reviews%2Cprs_merged)
 
+</div>
 ---
 
 ## 🚀 Featured Projects
