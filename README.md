@@ -73,6 +73,9 @@ Web system for managing legal cases and clients, focused on organization and usa
 
 ## 📫 Contact
 
+<a href="mailto:gabrieldickman33@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gabrieldickman33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/gabrieldsilvam/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
