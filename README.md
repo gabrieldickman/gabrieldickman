@@ -18,8 +18,7 @@ I enjoy turning ideas into scalable applications and I’m actively looking for 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrieldickman&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00bfbf" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldickman&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" />
+  ![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=gabrieldickman&type=fire)
 </div>
 
 ---
