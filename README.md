@@ -11,7 +11,7 @@
 🧠 Experience building **real-world systems**, personal projects and freelance solutions  
 📦 Main projects: **SCEO (Inventory Control System)** and **JuriFácil**
 
-I enjoy turning ideas into scalable applications and I’m actively looking for **Junior Developer opportunities**.
+I enjoy turning ideas into scalable applications and I’m actively looking for Junior Developer opportunities in Front-end or Full Stack roles.
 
 ---
 
@@ -28,13 +28,14 @@ I enjoy turning ideas into scalable applications and I’m actively looking for 
 
 ### 📦 SCEO – Inventory Control System
 Complete inventory management system with authentication, product control, sales registration and automatic stock updates.  
+Designed to help small businesses manage inventory, sales and products in a simple and efficient way.
 **Stack:** Next.js, TypeScript, Prisma, Neon, Tailwind, ShadCN, Clerk  
-🔗 ![Repository](https://github.com/gabrieldickman/sceo) | 🔗 ![Demo](https://sceo-pi.vercel.app/)
+🔗 [Repository](https://github.com/gabrieldickman/sceo) | 🔗 [Demo](https://sceo-pi.vercel.app/)
 
 ### ⚖️ JuriFácil
 Web system for managing legal cases and clients, focused on organization and usability.  
 **Stack:** Next.js, TypeScript, React Hook Form, Zod  
-🔗 ![Repository](https://github.com/DevGuide-Systems/jurifacil)
+🔗 [Repository](https://github.com/DevGuide-Systems/jurifacil)
 
 ---
 
